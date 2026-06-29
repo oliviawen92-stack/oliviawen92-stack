@@ -8,7 +8,7 @@ This space is a public index for skills I build, use, and maintain. Each skill s
 
 | Skill | What it does | Status |
 | --- | --- | --- |
-| [book-to-feishu-visual-notes](https://github.com/oliviawen92-stack/book-to-feishu-visual-notes) | Turns books into Feishu/Lark visual reading notes with source-boundary handling and one editable whiteboard per core viewpoint. | Ready to publish |
+| [book-to-feishu-visual-notes](https://github.com/oliviawen92-stack/book-to-feishu-visual-notes) | Turns books into Feishu/Lark visual reading notes with source-boundary handling and one editable whiteboard per core viewpoint. | Published |
 
 ## Principles
 
@@ -34,6 +34,6 @@ Install a skill by pointing your agent's skill installer at the repository root.
 
 ## Roadmap
 
-- Publish `book-to-feishu-visual-notes`.
+- Keep improving `book-to-feishu-visual-notes`.
 - Add a reusable Feishu report/briefing skill.
 - Add a personal knowledge-base ingestion skill.
