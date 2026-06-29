@@ -8,7 +8,7 @@
 
 | Skill | 用途 | 状态 |
 | --- | --- | --- |
-| [book-to-feishu-visual-notes](https://github.com/oliviawen92-stack/book-to-feishu-visual-notes) | 把来不及读完的书整理成飞书读书文档：核心观点、注释正文、每个观点一张可编辑白板。会明确区分“有完整书源”和“只有公开资料”的情况。 | 准备发布 |
+| [book-to-feishu-visual-notes](https://github.com/oliviawen92-stack/book-to-feishu-visual-notes) | 把来不及读完的书整理成飞书读书文档：核心观点、注释正文、每个观点一张可编辑白板。会明确区分“有完整书源”和“只有公开资料”的情况。 | 已发布 |
 
 ## 设计原则
 
@@ -32,6 +32,6 @@ skill-name/
 
 ## 计划
 
-- 发布 `book-to-feishu-visual-notes`。
+- 持续完善 `book-to-feishu-visual-notes`。
 - 做一个可复用的飞书报告/briefing skill。
 - 做一个个人知识库整理 skill。
